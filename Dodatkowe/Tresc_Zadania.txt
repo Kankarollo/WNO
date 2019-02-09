@@ -1,0 +1,2 @@
+1.Wylosowac punkty w przestrzeni 3D i potem je ogrodziæ.
+(Convex hull 3D).
